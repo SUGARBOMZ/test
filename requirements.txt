@@ -3,4 +3,4 @@ pandas
 requests
 openpyxl
 Pillow
-imghdr
+rich
