@@ -1,6 +1,6 @@
 # --------------------  extract-excel.py  (FULL FILE – 27 Apr 2025)  --------------------
 import os, base64, json, re, io, requests, pandas as pd, streamlit as st
-
+import imghdr
 
 API_KEY = "AIzaSyDb8iBV1EWqLvjheG_44gh3vQHfpmYGOCI"
 from PIL import Image
