@@ -3,7 +3,7 @@ import base64
 import json
 import re
 import io
-import imghdr
+
 import requests
 import pandas as pd
 import streamlit as st
